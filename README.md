@@ -37,4 +37,4 @@ After an extensive and successful career managing complex processes and Customer
 3.  **Continuous Tech Adoption:** Embracing AI, basic programming, and cyber-awareness to stay at the forefront of digital efficiency.
 
 ---
-*Bridging Business Operations with Tech & Data Analytics | ✨ 2026 | Remote & Global*
+*Bridging Business Operations with Tech & Data Analytics | ✨ 2026 | Remote & Global 🌐🚀*
