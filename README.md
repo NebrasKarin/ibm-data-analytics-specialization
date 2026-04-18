@@ -1,33 +1,40 @@
+![IBM Data Analytics Banner](ibm-analytics-banner.png)
+
 # IBM Data Analytics Professional Certificate 🎓
 
-This repository documents my progress and projects during the IBM Professional Certification path. Here, I apply technical concepts to real-world business scenarios, such as data analysis for a bakery.
+This repository documents my technical upskilling journey through the IBM Professional Certification. It reflects my active transition into Data Analytics and Automation, combining a robust background in business operations with new, hands-on technical capabilities. 
 
-## 🛠️ Tech Stack & Key Concepts | *Habilidades Clave*
+## 🛠️ Tech Stack & Current Focus
 
-Este curso me permite dominar herramientas y conceptos críticos para el análisis de datos corporativos:
+This specialization allows me to build a strong foundation in the data lifecycle, focusing on practical applications for corporate environments:
 
-* **📊 Excel for Data Analysts | *Excel Avanzado***
-    * *Skills:* Data Cleaning, Pivot Tables, Workflow Optimization, VLOOKUPs.
-    * *Feature:* Expert management of bilingual tool configurations (Switching commands/formulas between English and Spanish).
+* **📊 Data Analysis (Excel)**
+    * *Applied Skills:* Data Cleaning, Pivot Tables, VLOOKUPs, and Workflow Optimization.
+    * *Focus:* Solving bilingual localization challenges and maintaining formula integrity across English/Spanish software environments.
 
-* **🐍 Python for Data Science | *Análisis con Python***
-    * *Libraries:* Pandas, NumPy, Matplotlib for processing and visualizing large datasets.
-    * *Skills:* Initial script automation and data structure manipulation.
+* **🐍 Data Science Foundations (Python)**
+    * *Learning Path:* Utilizing Pandas, NumPy, and Matplotlib for data processing and exploratory visualization.
+    * *Goal:* Moving from manual data entry to basic script automation and structured data manipulation.
 
-* **🧱 Data Fundamentals & SQL | *Bases de Datos y SQL***
-    * *Concepts:* Qualitative vs. Quantitative data classification, primary/secondary data sources.
-    * *Big Data:* In-depth understanding of the 5 V's of Big Data and their corporate application.
+* **🗄️ Database Management & SQL**
+    * *Fundamentals:* Understanding relational database structures and writing essential SQL queries.
+    * *Business Context:* Applying the 5 V's of Big Data to strategic decision-making and operational scaling.
 
-## 📂 Project Highlights | *Proyectos Destacados*
+## 📂 Featured Projects & Case Studies
 
-Here are the key practical exercises from the specialization:
+* **🥖 Bella's Bakery Case Study**
+    * *Executive Summary:* Executed an end-to-end inventory and sales analysis for a retail business scenario.
+    * *Impact:* Applied structured data cleaning techniques to extract actionable business insights from raw logs.
 
-* **🥖 Bella's Bakery Case Study | *Estudio de Caso: Panadería de Bella***
-    * *Description:* End-to-end analysis of inventory and sales data for a bakery.
-    * *Focus:* Applied Excel cleaning techniques and structured data management to improve business insights.
+* **📜 Global Localization Guide**
+    * *Documentation:* Created a methodology for managing software localization discrepancies in analytics tools, demonstrating attention to detail and process documentation.
 
-* **📜 Technical Troubleshooting Guide | *Guía de Resolución de Problemas***
-    * *Topic:* Documenting bilingual tool localization challenges (Excel English/Spanish) and my methodology for formula integrity.
+## 🎯 Career Vision: The Business-Tech Bridge
+
+After an extensive and successful career managing complex processes and Customer Experience, I am intentionally pivoting toward the technical execution of these strategies. I am currently integrating:
+1.  **Process Automation:** Learning Python and N8N to modernize and scale repetitive workflows.
+2.  **Data-Driven Decisions:** Building the foundational skills to analyze data logs and optimize conversion rates.
+3.  **Continuous Tech Adoption:** Embracing AI, basic programming, and cyber-awareness to stay at the forefront of digital efficiency.
 
 ---
-*Professional Transition to Data Analytics & Automation | ✨ 2026 | Remote & Global*
+*Bridging Business Operations with Tech & Data Analytics | ✨ 2026 | Remote & Global*
